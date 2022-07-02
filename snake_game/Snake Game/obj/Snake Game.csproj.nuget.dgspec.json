@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Snake Game\\Snake Game\\Snake Game.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\snake_game\\snake_game\\Snake Game\\Snake Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Snake Game\\Snake Game\\Snake Game.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\snake_game\\snake_game\\Snake Game\\Snake Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Snake Game\\Snake Game\\Snake Game.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\snake_game\\snake_game\\Snake Game\\Snake Game.csproj",
         "projectName": "Snake Game",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Snake Game\\Snake Game\\Snake Game.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\snake_game\\snake_game\\Snake Game\\Snake Game.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Snake Game\\Snake Game\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\snake_game\\snake_game\\Snake Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
