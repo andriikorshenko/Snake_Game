@@ -12,8 +12,3 @@ border.DrawBorder();
 Snake snake = new Snake(7, 12, ConsoleColor.Magenta, ConsoleColor.Yellow);
 snake.Start();
 
-
-
-
-
-
