@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake Game\\Snake Game.csproj",
-      "projectName": "Snake Game",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake Game\\Snake Game.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake_Game\\Snake_Game.csproj",
+      "projectName": "Snake_Game",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake_Game\\Snake_Game.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake Game\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Snake_Game\\Snake_Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
